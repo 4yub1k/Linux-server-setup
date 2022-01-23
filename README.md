@@ -6,5 +6,5 @@ Debian install
 3- Select guided partition > selection \var \swap \ \home
 4- Select country settings for apt
 
-5-During software install select Web server, SSH, and util.
+5-During software install only SSH.
 ```
